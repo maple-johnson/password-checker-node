@@ -1,0 +1,33 @@
+body {
+     background-color: aliceblue;
+     text-align: center;
+}
+
+h1 {
+     color: green;
+}
+
+label, button {
+     margin: 10px;
+     padding: 5px;
+}
+
+
+#click {
+     background-color: green;
+     color: white;
+     border-style: solid;
+     border-width: 2px;
+     border-radius: 5px;
+     border-color: black;
+}
+
+#password {
+     border-style: solid;
+     border-width: 2px;
+     border-radius: 5px;
+}
+
+#outputLength, #outputSpecial, #outputSpace, #outputUpper, #outputLower, #outputDigit{
+     color: red;
+}
